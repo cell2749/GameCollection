@@ -1,6 +1,6 @@
 var loopback = require('loopback');
 var boot = require('loopback-boot');
-require("node-jsx").install();
+
 
 var app = module.exports = loopback();
 
